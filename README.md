@@ -23,6 +23,14 @@ em 2,5 dB para conter picos acima do teto de entrega.
 **As legendas das falas ainda estão pendentes.** Os textos visuais não são transcrições.
 Veja [o estado e os comandos de transcrição](legendas/STATUS.md).
 
+## Revisão visual v2
+
+[Baixar a nova prévia visual, sem legendas](videos/encerramento-v2-visual.mp4).
+
+A segunda direção usa fundo de papel, tipografia serifada, verde e cobre, revelações por máscara, expansão da filmagem para tela cheia e dois painéis com recortes fotográficos. A primeira versão é mantida para comparação.
+
+A transcrição é executada no GitHub Actions, em um runner independente da máquina de edição. Veja a aba Actions. Os arquivos originais do reconhecimento são preservados para revisão; eles não devem ser confundidos com legendas conferidas por escuta humana.
+
 ## Estrutura
 
 - `projeto/index.html`: composição e timeline GSAP editáveis.
