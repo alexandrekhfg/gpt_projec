@@ -1,15 +1,15 @@
-# Legendas pendentes
+# Legendas de teste — v2
 
-Esta versão contém textos gráficos editoriais, mas ainda não contém legendas das falas.
-O download do modelo Whisper small foi bloqueado por HTTP 403 no ambiente de origem.
-Não foi gerada nem inventada uma transcrição.
+A transcrição foi executada com Whisper no GitHub Actions, sem depender da publicação do ambiente GPT. Foram feitas três passagens: small, turbo e turbo em janelas de 12 segundos.
 
-Para transcrever em uma máquina com acesso ao modelo oficial:
+A primeira saída foi rejeitada por erros e repetição. A última saída foi comparada por texto e confiança. Nomes, siglas, endereços e frases inconsistentes foram omitidos ou sinalizados no teste; não foram inventados.
 
-```bash
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-transcricao.txt
-.venv/bin/whisper projeto/assets/original.mp4 --model small --language pt --device cpu --fp16 False --word_timestamps True --output_format all --output_dir legendas
-```
+- `encerramento-pt.srt`: legendas de teste separadas.
+- `encerramento-pt.ass`: legendas com destaque progressivo por palavra.
+- `ajustes-de-revisao.json`: intervalos que exigem conferência.
+- `legendas-revisaveis.json`: grupos usados no vídeo.
+- `transcricao-original.json` e `.txt`: saída automática bruta, com erros, preservada para rastreabilidade.
 
-Revise os nomes, as falas e os tempos antes de incorporar as legendas ao vídeo.
+**Não houve conferência por escuta humana nesta sessão. Esta é uma versão de teste, com legendas parciais e trechos sinalizados, não uma transcrição integral certificada.**
+
+Para corrigir, edite os textos e tempos com base no áudio. Depois ajuste os intervalos de `ajustes-de-revisao.json` e gere novamente os arquivos. As legendas também estão presentes como camada editável em `projeto/compositions/captions.html`.

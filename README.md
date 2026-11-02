@@ -4,6 +4,9 @@ Projeto editável criado com HyperFrames 0.9.2 a partir do vídeo fornecido pelo
 
 ## Baixar os vídeos
 
+- [Nova edição v2 com legendas de teste](videos/encerramento-v2-legendado.mp4)
+- [Legendas separadas em português — SRT](legendas/encerramento-pt.srt)
+
 - [Prévia leve, aproximadamente 17 MB](videos/encerramento-editado-previa.mp4)
 - [Render de maior qualidade, aproximadamente 91 MB](videos/encerramento-camadas-sem-legendas.mp4)
 - [Vídeo original, aproximadamente 22 MB](projeto/assets/original.mp4)
@@ -20,7 +23,7 @@ barra de progresso, card editorial intermediário e cartela de encerramento.
 O conteúdo do áudio original foi preservado; o renderizador reduziu o nível geral
 em 2,5 dB para conter picos acima do teto de entrega.
 
-**As legendas das falas ainda estão pendentes.** Os textos visuais não são transcrições.
+**A v2 inclui legendas automáticas de teste, com trechos pouco claros sinalizados.** Os textos gráficos editoriais não são transcrições.
 Veja [o estado e os comandos de transcrição](legendas/STATUS.md).
 
 ## Revisão visual v2

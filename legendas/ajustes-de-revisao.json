@@ -1,0 +1,50 @@
+{
+  "nota": "Revisão textual entre saídas automáticas. Não houve conferência por escuta humana. Trechos inconsistentes foram sinalizados, sem inventar nomes, datas ou endereços.",
+  "ranges": [
+    {
+      "start": 0,
+      "end": 18.3,
+      "label": "[nomes e fala pouco claros]"
+    },
+    {
+      "start": 28.04,
+      "end": 29.33,
+      "label": "[trecho pouco claro]"
+    },
+    {
+      "start": 34.0,
+      "end": 35.2,
+      "label": "[trecho pouco claro]"
+    },
+    {
+      "start": 37.2,
+      "end": 43.1,
+      "label": "[trecho pouco claro]"
+    },
+    {
+      "start": 43.5,
+      "end": 48.65,
+      "label": "[trecho pouco claro]"
+    },
+    {
+      "start": 56.0,
+      "end": 64.12,
+      "label": "[endereço e sigla a confirmar]"
+    },
+    {
+      "start": 72.0,
+      "end": 76.2,
+      "label": "[trecho pouco claro]"
+    },
+    {
+      "start": 95.0,
+      "end": 98.57,
+      "label": ""
+    },
+    {
+      "start": 78.9,
+      "end": 80.96,
+      "label": "[trecho pouco claro]"
+    }
+  ]
+}
