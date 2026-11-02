@@ -1,0 +1,35 @@
+name: Transcrever vídeo em português
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/transcrever-video.yml'
+      - 'scripts/transcribe_video.py'
+permissions:
+  contents: write
+jobs:
+  transcrever:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Preparar FFmpeg e Whisper
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python -m pip install 'torch==2.9.0' --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install 'openai-whisper==20250625'
+      - name: Transcrever áudio original
+        run: python scripts/transcribe_video.py
+      - name: Salvar transcrição no repositório
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add legendas/transcricao-original.json legendas/transcricao-original.txt
+          git diff --cached --quiet && exit 0
+          git commit -m 'Gera transcrição automática em português para revisão'
+          git pull --rebase origin main
+          git push origin HEAD:main
