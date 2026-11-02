@@ -1,521 +1,272 @@
 {
-  "text": " Taiana, me, Mar e a Vela. E a Vela, gente. Não tem mais remanches, né? Eu não sei quem é a Vinha dela. Agora eu sei que era a me. Porque ela tá aqui, mas é a Vinha dela. Só tinha uma briga dela. E pra que tá com vocês, pela presença hoje da nossa primeira gíria aberta, só nós. Eu fico mais nervoso hoje de mais uma graça. Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não",
+  "text": " Tayana, Mi, Mar, Mia dela. Mia dela, gente. Ela tem uma gênera. Eu não sei quem é a Mia e a Mia dela. Agora eu sei que era a Mia. Mas é a Mia dela, a gente só chama de Mia dela. E obrigado a vocês pela presença hoje da nossa primeira gira aberta. é só nós. Eu fiquei mais nervoso hoje do que mais abraço a terra. Tanta gente que tava mais nervoso hoje, eu falei, mas por quê? Vaciloso do mundo. Mas, obrigado. Bom retorno pra todos, pra casa, que eu te abençoe, possa acompanhar essa semana, a gente tem todo mundo. Nossa próxima dia vai ser de maneiro, eu vou colocar. Ah, temos o nosso site, o nosso Instagram. Nosso site, Depois eu vou trazer certinho, deixar pregado, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, Obrigado.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 1.4199999999999973,
-      "end": 6.7,
-      "text": " Taiana, me, Mar e a Vela.",
+      "start": 0.6999999999999991,
+      "end": 14.42,
+      "text": " Tayana, Mi, Mar, Mia dela. Mia dela, gente. Ela tem uma gênera. Eu não sei quem é a Mia e a Mia dela. Agora eu sei que era a Mia.",
       "tokens": [
-        50364,
-        6551,
-        8497,
+        50365,
+        10132,
+        2095,
         11,
-        385,
+        10204,
         11,
         2039,
-        308,
-        257,
-        691,
-        4053,
+        11,
+        28545,
+        21820,
         13,
-        50714
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " Taiana,",
-          "start": 1.4199999999999973,
-          "end": 1.8599999999999985,
-          "probability": 0.4265197031199932
-        },
-        {
-          "word": " me,",
-          "start": 1.8599999999999985,
-          "end": 2.3,
-          "probability": 0.25547266006469727
-        },
-        {
-          "word": " Mar",
-          "start": 3.86,
-          "end": 4.58,
-          "probability": 0.2301979809999466
-        },
-        {
-          "word": " e",
-          "start": 4.58,
-          "end": 6.26,
-          "probability": 0.45415982604026794
-        },
-        {
-          "word": " a",
-          "start": 6.26,
-          "end": 6.36,
-          "probability": 0.5481454133987427
-        },
-        {
-          "word": " Vela.",
-          "start": 6.36,
-          "end": 6.7,
-          "probability": 0.6027362942695618
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 7.24,
-      "end": 9.18,
-      "text": " E a Vela, gente.",
-      "tokens": [
-        50714,
-        462,
-        257,
-        691,
-        4053,
+        28545,
+        21820,
         11,
         3788,
         13,
-        50814
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " E",
-          "start": 7.24,
-          "end": 7.56,
-          "probability": 0.25395873188972473
-        },
-        {
-          "word": " a",
-          "start": 7.56,
-          "end": 8.78,
-          "probability": 0.9706670045852661
-        },
-        {
-          "word": " Vela,",
-          "start": 8.78,
-          "end": 8.94,
-          "probability": 0.9926609098911285
-        },
-        {
-          "word": " gente.",
-          "start": 9.06,
-          "end": 9.18,
-          "probability": 0.8451793789863586
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 9.4,
-      "end": 10.86,
-      "text": " Não tem mais remanches, né?",
-      "tokens": [
-        50814,
-        8010,
+        17637,
         1383,
-        2420,
-        890,
-        282,
-        3781,
-        11,
-        7024,
-        30,
-        50914
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " Não",
-          "start": 9.4,
-          "end": 9.48,
-          "probability": 0.34420207142829895
-        },
-        {
-          "word": " tem",
-          "start": 9.48,
-          "end": 9.72,
-          "probability": 0.6142693161964417
-        },
-        {
-          "word": " mais",
-          "start": 9.72,
-          "end": 10.02,
-          "probability": 0.8637620210647583
-        },
-        {
-          "word": " remanches,",
-          "start": 10.02,
-          "end": 10.6,
-          "probability": 0.3480774536728859
-        },
-        {
-          "word": " né?",
-          "start": 10.82,
-          "end": 10.86,
-          "probability": 0.42973029613494873
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 11.08,
-      "end": 12.92,
-      "text": " Eu não sei quem é a Vinha dela.",
-      "tokens": [
-        50914,
+        2772,
+        290,
+        1307,
+        1193,
+        64,
+        13,
         2186,
         2431,
         10842,
         13026,
         1136,
         257,
-        691,
-        6727,
+        28545,
+        308,
+        257,
+        28545,
         21820,
         13,
-        51014
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " Eu",
-          "start": 11.08,
-          "end": 11.3,
-          "probability": 0.5419336557388306
-        },
-        {
-          "word": " não",
-          "start": 11.3,
-          "end": 11.94,
-          "probability": 0.9178329110145569
-        },
-        {
-          "word": " sei",
-          "start": 11.94,
-          "end": 12.06,
-          "probability": 0.9968128800392151
-        },
-        {
-          "word": " quem",
-          "start": 12.06,
-          "end": 12.2,
-          "probability": 0.918829083442688
-        },
-        {
-          "word": " é",
-          "start": 12.2,
-          "end": 12.32,
-          "probability": 0.9412068724632263
-        },
-        {
-          "word": " a",
-          "start": 12.32,
-          "end": 12.42,
-          "probability": 0.5530027151107788
-        },
-        {
-          "word": " Vinha",
-          "start": 12.42,
-          "end": 12.62,
-          "probability": 0.23041506111621857
-        },
-        {
-          "word": " dela.",
-          "start": 12.62,
-          "end": 12.92,
-          "probability": 0.47754326462745667
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 13.2,
-      "end": 14.28,
-      "text": " Agora eu sei que era a me.",
-      "tokens": [
-        51014,
         16023,
         2228,
         10842,
         631,
         4249,
         257,
-        385,
+        28545,
         13,
-        51114
+        51088
       ],
       "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
+      "avg_logprob": -0.38945294633696353,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 5.171143027671299e-12,
       "words": [
         {
-          "word": " Agora",
-          "start": 13.2,
-          "end": 13.46,
-          "probability": 0.8713237047195435
+          "word": " Tayana,",
+          "start": 0.6999999999999991,
+          "end": 1.16,
+          "probability": 0.6483122259378433
         },
         {
-          "word": " eu",
-          "start": 13.46,
-          "end": 13.7,
-          "probability": 0.8298013806343079
+          "word": " Mi,",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.9015781879425049
+        },
+        {
+          "word": " Mar,",
+          "start": 3.94,
+          "end": 4.52,
+          "probability": 0.4826711416244507
+        },
+        {
+          "word": " Mia",
+          "start": 5.92,
+          "end": 6.32,
+          "probability": 0.6194520592689514
+        },
+        {
+          "word": " dela.",
+          "start": 6.32,
+          "end": 6.66,
+          "probability": 0.24524450302124023
+        },
+        {
+          "word": " Mia",
+          "start": 8.18,
+          "end": 8.64,
+          "probability": 0.9287980794906616
+        },
+        {
+          "word": " dela,",
+          "start": 8.64,
+          "end": 8.94,
+          "probability": 0.9931620359420776
+        },
+        {
+          "word": " gente.",
+          "start": 9.04,
+          "end": 9.2,
+          "probability": 0.9766572713851929
+        },
+        {
+          "word": " Ela",
+          "start": 9.34,
+          "end": 9.5,
+          "probability": 0.9367495179176331
+        },
+        {
+          "word": " tem",
+          "start": 9.5,
+          "end": 9.74,
+          "probability": 0.9976453185081482
+        },
+        {
+          "word": " uma",
+          "start": 9.74,
+          "end": 9.98,
+          "probability": 0.9793640971183777
+        },
+        {
+          "word": " gênera.",
+          "start": 9.98,
+          "end": 10.82,
+          "probability": 0.6928569488227367
+        },
+        {
+          "word": " Eu",
+          "start": 11.28,
+          "end": 11.74,
+          "probability": 0.7451251149177551
+        },
+        {
+          "word": " não",
+          "start": 11.74,
+          "end": 11.9,
+          "probability": 0.9992867112159729
         },
         {
           "word": " sei",
-          "start": 13.7,
+          "start": 11.9,
+          "end": 12.02,
+          "probability": 0.9997757077217102
+        },
+        {
+          "word": " quem",
+          "start": 12.02,
+          "end": 12.18,
+          "probability": 0.9985759258270264
+        },
+        {
+          "word": " é",
+          "start": 12.18,
+          "end": 12.3,
+          "probability": 0.9971676468849182
+        },
+        {
+          "word": " a",
+          "start": 12.3,
+          "end": 12.44,
+          "probability": 0.1628914326429367
+        },
+        {
+          "word": " Mia",
+          "start": 12.44,
+          "end": 12.46,
+          "probability": 0.6044184565544128
+        },
+        {
+          "word": " e",
+          "start": 12.46,
+          "end": 12.6,
+          "probability": 0.842680811882019
+        },
+        {
+          "word": " a",
+          "start": 12.6,
+          "end": 12.76,
+          "probability": 0.7379224300384521
+        },
+        {
+          "word": " Mia",
+          "start": 12.76,
+          "end": 12.78,
+          "probability": 0.9152581095695496
+        },
+        {
+          "word": " dela.",
+          "start": 12.78,
+          "end": 13.04,
+          "probability": 0.9971874356269836
+        },
+        {
+          "word": " Agora",
+          "start": 13.16,
+          "end": 13.5,
+          "probability": 0.997974693775177
+        },
+        {
+          "word": " eu",
+          "start": 13.5,
+          "end": 13.68,
+          "probability": 0.993353009223938
+        },
+        {
+          "word": " sei",
+          "start": 13.68,
           "end": 13.78,
-          "probability": 0.9936142563819885
+          "probability": 0.9995137453079224
         },
         {
           "word": " que",
           "start": 13.78,
           "end": 13.94,
-          "probability": 0.5652115941047668
+          "probability": 0.7952570915222168
         },
         {
           "word": " era",
           "start": 13.94,
-          "end": 14.06,
-          "probability": 0.697791576385498
+          "end": 14.04,
+          "probability": 0.7783348560333252
         },
         {
           "word": " a",
-          "start": 14.06,
+          "start": 14.04,
           "end": 14.22,
-          "probability": 0.7743775248527527
+          "probability": 0.9981860518455505
         },
         {
-          "word": " me.",
+          "word": " Mia.",
           "start": 14.22,
-          "end": 14.28,
-          "probability": 0.27214762568473816
+          "end": 14.42,
+          "probability": 0.9940172433853149
         }
       ]
     },
     {
-      "id": 5,
+      "id": 1,
       "seek": 0,
-      "start": 15.02,
-      "end": 16.4,
-      "text": " Porque ela tá aqui, mas é a Vinha dela.",
+      "start": 15.3,
+      "end": 25.46,
+      "text": " Mas é a Mia dela, a gente só chama de Mia dela. E obrigado a vocês pela presença hoje da nossa primeira gira aberta.",
       "tokens": [
-        51114,
-        11287,
-        7175,
-        7737,
-        3871,
-        11,
-        2300,
+        51088,
+        5224,
         1136,
         257,
-        691,
-        6727,
+        28545,
         21820,
-        13,
-        51214
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " Porque",
-          "start": 15.02,
-          "end": 15.24,
-          "probability": 0.5731418132781982
-        },
-        {
-          "word": " ela",
-          "start": 15.24,
-          "end": 15.38,
-          "probability": 0.9257209897041321
-        },
-        {
-          "word": " tá",
-          "start": 15.38,
-          "end": 15.48,
-          "probability": 0.5694131851196289
-        },
-        {
-          "word": " aqui,",
-          "start": 15.48,
-          "end": 15.62,
-          "probability": 0.733353853225708
-        },
-        {
-          "word": " mas",
-          "start": 15.68,
-          "end": 15.76,
-          "probability": 0.942853569984436
-        },
-        {
-          "word": " é",
-          "start": 15.76,
-          "end": 15.9,
-          "probability": 0.9533747434616089
-        },
-        {
-          "word": " a",
-          "start": 15.9,
-          "end": 16.04,
-          "probability": 0.9454655647277832
-        },
-        {
-          "word": " Vinha",
-          "start": 16.04,
-          "end": 16.2,
-          "probability": 0.6551071107387543
-        },
-        {
-          "word": " dela.",
-          "start": 16.2,
-          "end": 16.4,
-          "probability": 0.9758884310722351
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 16.52,
-      "end": 17.5,
-      "text": " Só tinha uma briga dela.",
-      "tokens": [
-        51214,
-        19961,
-        13574,
-        2772,
-        738,
-        9900,
-        21820,
-        13,
-        51264
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " Só",
-          "start": 16.52,
-          "end": 16.72,
-          "probability": 0.24871830642223358
-        },
-        {
-          "word": " tinha",
-          "start": 16.72,
-          "end": 16.88,
-          "probability": 0.21450117230415344
-        },
-        {
-          "word": " uma",
-          "start": 16.88,
-          "end": 17.0,
-          "probability": 0.3946111500263214
-        },
-        {
-          "word": " briga",
-          "start": 17.0,
-          "end": 17.2,
-          "probability": 0.34962086006999016
-        },
-        {
-          "word": " dela.",
-          "start": 17.2,
-          "end": 17.5,
-          "probability": 0.575822114944458
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 18.46,
-      "end": 19.9,
-      "text": " E pra que tá com vocês,",
-      "tokens": [
-        51264,
-        462,
-        3206,
-        631,
-        7737,
-        395,
-        10522,
         11,
-        51364
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
-      "words": [
-        {
-          "word": " E",
-          "start": 18.46,
-          "end": 18.9,
-          "probability": 0.8708063364028931
-        },
-        {
-          "word": " pra",
-          "start": 18.9,
-          "end": 19.18,
-          "probability": 0.1329580694437027
-        },
-        {
-          "word": " que",
-          "start": 19.18,
-          "end": 19.28,
-          "probability": 0.1961248815059662
-        },
-        {
-          "word": " tá",
-          "start": 19.28,
-          "end": 19.36,
-          "probability": 0.19027070701122284
-        },
-        {
-          "word": " com",
-          "start": 19.36,
-          "end": 19.54,
-          "probability": 0.6057251691818237
-        },
-        {
-          "word": " vocês,",
-          "start": 19.54,
-          "end": 19.9,
-          "probability": 0.8854901790618896
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 0,
-      "start": 20.06,
-      "end": 25.42,
-      "text": " pela presença hoje da nossa primeira gíria aberta,",
-      "tokens": [
-        51364,
+        257,
+        3788,
+        6238,
+        40954,
+        368,
+        28545,
+        21820,
+        13,
+        462,
+        41774,
+        257,
+        10522,
         14820,
         1183,
         48866,
@@ -524,1092 +275,1097 @@
         15821,
         21158,
         290,
-        870,
-        4668,
+        4271,
         410,
         22765,
-        11,
-        51614
+        13,
+        51638
       ],
       "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
+      "avg_logprob": -0.38945294633696353,
+      "compression_ratio": 1.5333333333333334,
+      "no_speech_prob": 5.171143027671299e-12,
       "words": [
         {
+          "word": " Mas",
+          "start": 15.3,
+          "end": 15.76,
+          "probability": 0.6023330688476562
+        },
+        {
+          "word": " é",
+          "start": 15.76,
+          "end": 15.9,
+          "probability": 0.9488345980644226
+        },
+        {
+          "word": " a",
+          "start": 15.9,
+          "end": 15.98,
+          "probability": 0.9992412328720093
+        },
+        {
+          "word": " Mia",
+          "start": 15.98,
+          "end": 16.16,
+          "probability": 0.954477846622467
+        },
+        {
+          "word": " dela,",
+          "start": 16.16,
+          "end": 16.4,
+          "probability": 0.9997490048408508
+        },
+        {
+          "word": " a",
+          "start": 16.48,
+          "end": 16.54,
+          "probability": 0.26903170347213745
+        },
+        {
+          "word": " gente",
+          "start": 16.54,
+          "end": 16.6,
+          "probability": 0.7739588022232056
+        },
+        {
+          "word": " só",
+          "start": 16.6,
+          "end": 16.72,
+          "probability": 0.9943479895591736
+        },
+        {
+          "word": " chama",
+          "start": 16.72,
+          "end": 16.92,
+          "probability": 0.9822056889533997
+        },
+        {
+          "word": " de",
+          "start": 16.92,
+          "end": 17.04,
+          "probability": 0.8553650975227356
+        },
+        {
+          "word": " Mia",
+          "start": 17.04,
+          "end": 17.22,
+          "probability": 0.9949885010719299
+        },
+        {
+          "word": " dela.",
+          "start": 17.22,
+          "end": 17.48,
+          "probability": 0.999606192111969
+        },
+        {
+          "word": " E",
+          "start": 18.42,
+          "end": 18.82,
+          "probability": 0.9714483618736267
+        },
+        {
+          "word": " obrigado",
+          "start": 18.82,
+          "end": 19.38,
+          "probability": 0.9709731340408325
+        },
+        {
+          "word": " a",
+          "start": 19.38,
+          "end": 19.54,
+          "probability": 0.9580268859863281
+        },
+        {
+          "word": " vocês",
+          "start": 19.54,
+          "end": 19.86,
+          "probability": 0.9994377493858337
+        },
+        {
           "word": " pela",
-          "start": 20.06,
-          "end": 20.36,
-          "probability": 0.33951544761657715
+          "start": 19.86,
+          "end": 20.3,
+          "probability": 0.9938162565231323
         },
         {
           "word": " presença",
-          "start": 20.36,
-          "end": 22.74,
-          "probability": 0.7249768525362015
+          "start": 20.3,
+          "end": 22.78,
+          "probability": 0.9698275923728943
         },
         {
           "word": " hoje",
-          "start": 22.74,
-          "end": 23.16,
-          "probability": 0.8582655787467957
+          "start": 22.78,
+          "end": 23.2,
+          "probability": 0.9926427006721497
         },
         {
           "word": " da",
-          "start": 23.16,
-          "end": 23.44,
-          "probability": 0.5537105798721313
+          "start": 23.2,
+          "end": 23.42,
+          "probability": 0.7895882725715637
         },
         {
           "word": " nossa",
-          "start": 23.44,
-          "end": 23.64,
-          "probability": 0.9988721013069153
+          "start": 23.42,
+          "end": 23.66,
+          "probability": 0.9991101622581482
         },
         {
           "word": " primeira",
-          "start": 23.64,
-          "end": 24.38,
-          "probability": 0.9709295630455017
+          "start": 23.66,
+          "end": 24.36,
+          "probability": 0.9991521835327148
         },
         {
-          "word": " gíria",
-          "start": 24.38,
+          "word": " gira",
+          "start": 24.36,
           "end": 24.9,
-          "probability": 0.34659574429194134
+          "probability": 0.6736803948879242
         },
         {
-          "word": " aberta,",
+          "word": " aberta.",
           "start": 24.9,
-          "end": 25.42,
-          "probability": 0.817251443862915
+          "end": 25.46,
+          "probability": 0.9877464473247528
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2546,
+      "start": 25.46,
+      "end": 29.12,
+      "text": " é só nós. Eu fiquei mais nervoso hoje do que mais abraço a terra.",
+      "tokens": [
+        50365,
+        1136,
+        6238,
+        9738,
+        13,
+        2186,
+        49647,
+        2420,
+        5724,
+        9869,
+        13458,
+        360,
+        631,
+        2420,
+        33693,
+        8560,
+        257,
+        26298,
+        13,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " é",
+          "start": 25.46,
+          "end": 25.46,
+          "probability": 0.056640226393938065
+        },
+        {
+          "word": " só",
+          "start": 25.46,
+          "end": 25.7,
+          "probability": 0.9759626984596252
+        },
+        {
+          "word": " nós.",
+          "start": 25.7,
+          "end": 26.08,
+          "probability": 0.9290645122528076
+        },
+        {
+          "word": " Eu",
+          "start": 26.3,
+          "end": 26.54,
+          "probability": 0.8593342900276184
+        },
+        {
+          "word": " fiquei",
+          "start": 26.54,
+          "end": 26.76,
+          "probability": 0.9852136969566345
+        },
+        {
+          "word": " mais",
+          "start": 26.76,
+          "end": 27.2,
+          "probability": 0.9925958514213562
+        },
+        {
+          "word": " nervoso",
+          "start": 27.2,
+          "end": 27.78,
+          "probability": 0.9976064264774323
+        },
+        {
+          "word": " hoje",
+          "start": 27.78,
+          "end": 28.04,
+          "probability": 0.8494939208030701
+        },
+        {
+          "word": " do",
+          "start": 28.04,
+          "end": 28.14,
+          "probability": 0.44720491766929626
+        },
+        {
+          "word": " que",
+          "start": 28.14,
+          "end": 28.16,
+          "probability": 0.8939242959022522
+        },
+        {
+          "word": " mais",
+          "start": 28.16,
+          "end": 28.36,
+          "probability": 0.8435215353965759
+        },
+        {
+          "word": " abraço",
+          "start": 28.36,
+          "end": 28.78,
+          "probability": 0.8213477432727814
+        },
+        {
+          "word": " a",
+          "start": 28.78,
+          "end": 28.94,
+          "probability": 0.10620420426130295
+        },
+        {
+          "word": " terra.",
+          "start": 28.94,
+          "end": 29.12,
+          "probability": 0.5244696736335754
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2546,
+      "start": 29.6,
+      "end": 32.76,
+      "text": " Tanta gente que tava mais nervoso hoje, eu falei, mas por quê?",
+      "tokens": [
+        50565,
+        314,
+        5983,
+        3788,
+        631,
+        26777,
+        2420,
+        5724,
+        9869,
+        13458,
+        11,
+        2228,
+        29800,
+        11,
+        2300,
+        1515,
+        28605,
+        30,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " Tanta",
+          "start": 29.6,
+          "end": 30.16,
+          "probability": 0.5795777589082718
+        },
+        {
+          "word": " gente",
+          "start": 30.16,
+          "end": 30.44,
+          "probability": 0.9579742550849915
+        },
+        {
+          "word": " que",
+          "start": 30.44,
+          "end": 30.64,
+          "probability": 0.8036330342292786
+        },
+        {
+          "word": " tava",
+          "start": 30.64,
+          "end": 30.86,
+          "probability": 0.3992668688297272
+        },
+        {
+          "word": " mais",
+          "start": 30.86,
+          "end": 31.2,
+          "probability": 0.988618016242981
+        },
+        {
+          "word": " nervoso",
+          "start": 31.2,
+          "end": 31.66,
+          "probability": 0.99461829662323
+        },
+        {
+          "word": " hoje,",
+          "start": 31.66,
+          "end": 31.92,
+          "probability": 0.9236141443252563
+        },
+        {
+          "word": " eu",
+          "start": 32.04,
+          "end": 32.08,
+          "probability": 0.730121374130249
+        },
+        {
+          "word": " falei,",
+          "start": 32.08,
+          "end": 32.16,
+          "probability": 0.9669094085693359
+        },
+        {
+          "word": " mas",
+          "start": 32.3,
+          "end": 32.3,
+          "probability": 0.8327173590660095
+        },
+        {
+          "word": " por",
+          "start": 32.3,
+          "end": 32.58,
+          "probability": 0.9756082892417908
+        },
+        {
+          "word": " quê?",
+          "start": 32.58,
+          "end": 32.76,
+          "probability": 0.45088353753089905
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2546,
+      "start": 34.1,
+      "end": 36.44,
+      "text": " Vaciloso do mundo. Mas, obrigado.",
+      "tokens": [
+        50765,
+        44442,
+        388,
+        9869,
+        360,
+        7968,
+        13,
+        5224,
+        11,
+        41774,
+        13,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " Vaciloso",
+          "start": 34.1,
+          "end": 34.66,
+          "probability": 0.41713552673657733
+        },
+        {
+          "word": " do",
+          "start": 34.66,
+          "end": 34.94,
+          "probability": 0.3078664243221283
+        },
+        {
+          "word": " mundo.",
+          "start": 34.94,
+          "end": 35.06,
+          "probability": 0.567572832107544
+        },
+        {
+          "word": " Mas,",
+          "start": 35.6,
+          "end": 35.98,
+          "probability": 0.9327319860458374
+        },
+        {
+          "word": " obrigado.",
+          "start": 36.02,
+          "end": 36.44,
+          "probability": 0.9356180429458618
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2546,
+      "start": 37.22,
+      "end": 41.06,
+      "text": " Bom retorno pra todos, pra casa, que eu te abençoe,",
+      "tokens": [
+        50965,
+        19812,
+        1533,
+        21998,
+        3206,
+        6321,
+        11,
+        3206,
+        9022,
+        11,
+        631,
+        2228,
+        535,
+        410,
+        268,
+        1138,
+        7921,
+        11,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " Bom",
+          "start": 37.22,
+          "end": 37.46,
+          "probability": 0.9328382611274719
+        },
+        {
+          "word": " retorno",
+          "start": 37.46,
+          "end": 37.94,
+          "probability": 0.6137125715613365
+        },
+        {
+          "word": " pra",
+          "start": 37.94,
+          "end": 38.28,
+          "probability": 0.8381098508834839
+        },
+        {
+          "word": " todos,",
+          "start": 38.28,
+          "end": 38.74,
+          "probability": 0.9890615940093994
+        },
+        {
+          "word": " pra",
+          "start": 39.02,
+          "end": 39.62,
+          "probability": 0.9821441173553467
+        },
+        {
+          "word": " casa,",
+          "start": 39.62,
+          "end": 40.0,
+          "probability": 0.8949683308601379
+        },
+        {
+          "word": " que",
+          "start": 40.12,
+          "end": 40.18,
+          "probability": 0.5930404663085938
+        },
+        {
+          "word": " eu",
+          "start": 40.18,
+          "end": 40.3,
+          "probability": 0.9362438321113586
+        },
+        {
+          "word": " te",
+          "start": 40.3,
+          "end": 40.38,
+          "probability": 0.3227267563343048
+        },
+        {
+          "word": " abençoe,",
+          "start": 40.38,
+          "end": 41.06,
+          "probability": 0.8018762320280075
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2546,
+      "start": 41.14,
+      "end": 45.14,
+      "text": " possa acompanhar essa semana, a gente tem todo mundo.",
+      "tokens": [
+        51165,
+        41564,
+        34839,
+        5854,
+        7208,
+        20205,
+        11,
+        257,
+        3788,
+        1383,
+        5149,
+        7968,
+        13,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " possa",
+          "start": 41.14,
+          "end": 41.42,
+          "probability": 0.21343964338302612
+        },
+        {
+          "word": " acompanhar",
+          "start": 41.42,
+          "end": 42.06,
+          "probability": 0.9975607395172119
+        },
+        {
+          "word": " essa",
+          "start": 42.06,
+          "end": 42.4,
+          "probability": 0.7548589110374451
+        },
+        {
+          "word": " semana,",
+          "start": 42.4,
+          "end": 43.0,
+          "probability": 0.9995391368865967
+        },
+        {
+          "word": " a",
+          "start": 43.32,
+          "end": 44.3,
+          "probability": 0.4613822102546692
+        },
+        {
+          "word": " gente",
+          "start": 44.3,
+          "end": 44.4,
+          "probability": 0.9931979179382324
+        },
+        {
+          "word": " tem",
+          "start": 44.4,
+          "end": 44.6,
+          "probability": 0.5272941589355469
+        },
+        {
+          "word": " todo",
+          "start": 44.6,
+          "end": 44.78,
+          "probability": 0.932934582233429
+        },
+        {
+          "word": " mundo.",
+          "start": 44.78,
+          "end": 45.14,
+          "probability": 0.9916451573371887
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2546,
+      "start": 45.58,
+      "end": 48.56,
+      "text": " Nossa próxima dia vai ser de maneiro, eu vou colocar.",
+      "tokens": [
+        51365,
+        36016,
+        24096,
+        6801,
+        4405,
+        816,
+        368,
+        12743,
+        5182,
+        11,
+        2228,
+        6008,
+        17568,
+        13,
+        51565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " Nossa",
+          "start": 45.58,
+          "end": 45.76,
+          "probability": 0.951807975769043
+        },
+        {
+          "word": " próxima",
+          "start": 45.76,
+          "end": 46.16,
+          "probability": 0.9960464835166931
+        },
+        {
+          "word": " dia",
+          "start": 46.16,
+          "end": 46.4,
+          "probability": 0.2394225299358368
+        },
+        {
+          "word": " vai",
+          "start": 46.4,
+          "end": 46.52,
+          "probability": 0.27678313851356506
+        },
+        {
+          "word": " ser",
+          "start": 46.52,
+          "end": 46.66,
+          "probability": 0.565498948097229
+        },
+        {
+          "word": " de",
+          "start": 46.66,
+          "end": 46.94,
+          "probability": 0.43838515877723694
+        },
+        {
+          "word": " maneiro,",
+          "start": 46.94,
+          "end": 47.58,
+          "probability": 0.5527830049395561
+        },
+        {
+          "word": " eu",
+          "start": 47.78,
+          "end": 48.0,
+          "probability": 0.9537528157234192
+        },
+        {
+          "word": " vou",
+          "start": 48.0,
+          "end": 48.18,
+          "probability": 0.9968474507331848
+        },
+        {
+          "word": " colocar.",
+          "start": 48.18,
+          "end": 48.56,
+          "probability": 0.5384593605995178
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2546,
+      "start": 48.92,
+      "end": 52.5,
+      "text": " Ah, temos o nosso site, o nosso Instagram. Nosso site,",
+      "tokens": [
+        51565,
+        2438,
+        11,
+        14247,
+        277,
+        14347,
+        3621,
+        11,
+        277,
+        14347,
+        5281,
+        13,
+        18749,
+        539,
+        3621,
+        11,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.44612014899819585,
+      "compression_ratio": 1.5867768595041323,
+      "no_speech_prob": 8.351901635561543e-12,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 48.92,
+          "end": 49.24,
+          "probability": 0.6565420627593994
+        },
+        {
+          "word": " temos",
+          "start": 49.26,
+          "end": 49.44,
+          "probability": 0.8255178928375244
+        },
+        {
+          "word": " o",
+          "start": 49.44,
+          "end": 49.6,
+          "probability": 0.8031179308891296
+        },
+        {
+          "word": " nosso",
+          "start": 49.6,
+          "end": 49.76,
+          "probability": 0.9997289776802063
+        },
+        {
+          "word": " site,",
+          "start": 49.76,
+          "end": 50.22,
+          "probability": 0.9991762042045593
+        },
+        {
+          "word": " o",
+          "start": 50.38,
+          "end": 50.4,
+          "probability": 0.7921808958053589
+        },
+        {
+          "word": " nosso",
+          "start": 50.4,
+          "end": 50.56,
+          "probability": 0.9964028596878052
+        },
+        {
+          "word": " Instagram.",
+          "start": 50.56,
+          "end": 50.98,
+          "probability": 0.7671837210655212
+        },
+        {
+          "word": " Nosso",
+          "start": 51.88,
+          "end": 52.18,
+          "probability": 0.9496539235115051
+        },
+        {
+          "word": " site,",
+          "start": 52.18,
+          "end": 52.5,
+          "probability": 0.9997294545173645
         }
       ]
     },
     {
       "id": 9,
-      "seek": 0,
-      "start": 25.68,
-      "end": 25.98,
-      "text": " só nós.",
+      "seek": 5250,
+      "start": 52.5,
+      "end": 82.48,
+      "text": " Depois eu vou trazer certinho, deixar pregado, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br, tosec.com.br,",
       "tokens": [
-        51614,
-        6238,
-        9738,
+        50365,
+        34231,
+        2228,
+        6008,
+        44776,
+        5351,
+        7775,
+        11,
+        19701,
+        659,
+        30135,
+        11,
+        281,
+        8159,
         13,
-        51664
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        281,
+        8159,
+        13,
+        1112,
+        13,
+        1443,
+        11,
+        51864
       ],
       "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
+      "avg_logprob": -0.36301092420305525,
+      "compression_ratio": 2.323529411764706,
+      "no_speech_prob": 2.2918212466693788e-11,
       "words": [
         {
-          "word": " só",
-          "start": 25.68,
-          "end": 25.7,
-          "probability": 0.7757458090782166
+          "word": " Depois",
+          "start": 52.5,
+          "end": 53.1,
+          "probability": 0.025939323008060455
         },
         {
-          "word": " nós.",
-          "start": 25.7,
-          "end": 25.98,
-          "probability": 0.687278151512146
+          "word": " eu",
+          "start": 53.1,
+          "end": 53.32,
+          "probability": 0.7826131582260132
+        },
+        {
+          "word": " vou",
+          "start": 53.32,
+          "end": 53.5,
+          "probability": 0.9886962175369263
+        },
+        {
+          "word": " trazer",
+          "start": 53.5,
+          "end": 53.94,
+          "probability": 0.9476604461669922
+        },
+        {
+          "word": " certinho,",
+          "start": 53.94,
+          "end": 54.56,
+          "probability": 0.8048797845840454
+        },
+        {
+          "word": " deixar",
+          "start": 54.66,
+          "end": 54.84,
+          "probability": 0.840584933757782
+        },
+        {
+          "word": " pregado,",
+          "start": 54.84,
+          "end": 55.46,
+          "probability": 0.7657692730426788
+        },
+        {
+          "word": " tosec",
+          "start": 56.02,
+          "end": 56.96,
+          "probability": 0.22276534885168076
+        },
+        {
+          "word": ".com",
+          "start": 56.96,
+          "end": 57.56,
+          "probability": 0.5825045704841614
+        },
+        {
+          "word": ".br,",
+          "start": 57.56,
+          "end": 58.14,
+          "probability": 0.8163866698741913
+        },
+        {
+          "word": " tosec",
+          "start": 59.38,
+          "end": 65.88,
+          "probability": 0.5915522277355194
+        },
+        {
+          "word": ".com",
+          "start": 65.88,
+          "end": 66.26,
+          "probability": 0.9728240072727203
+        },
+        {
+          "word": ".br,",
+          "start": 66.26,
+          "end": 68.88,
+          "probability": 0.9592078030109406
+        },
+        {
+          "word": " tosec",
+          "start": 68.88,
+          "end": 69.6,
+          "probability": 0.8669613003730774
+        },
+        {
+          "word": ".com",
+          "start": 69.6,
+          "end": 69.6,
+          "probability": 0.9837904274463654
+        },
+        {
+          "word": ".br,",
+          "start": 69.6,
+          "end": 69.98,
+          "probability": 0.9692132472991943
+        },
+        {
+          "word": " tosec",
+          "start": 70.14,
+          "end": 71.74,
+          "probability": 0.9467067718505859
+        },
+        {
+          "word": ".com",
+          "start": 71.74,
+          "end": 71.86,
+          "probability": 0.9861512780189514
+        },
+        {
+          "word": ".br,",
+          "start": 71.86,
+          "end": 71.86,
+          "probability": 0.9791166186332703
+        },
+        {
+          "word": " tosec",
+          "start": 72.36,
+          "end": 73.7,
+          "probability": 0.9674918055534363
+        },
+        {
+          "word": ".com",
+          "start": 73.7,
+          "end": 73.9,
+          "probability": 0.9896882474422455
+        },
+        {
+          "word": ".br,",
+          "start": 73.9,
+          "end": 73.98,
+          "probability": 0.9822123944759369
+        },
+        {
+          "word": " tosec",
+          "start": 74.5,
+          "end": 75.0,
+          "probability": 0.9742537140846252
+        },
+        {
+          "word": ".com",
+          "start": 75.0,
+          "end": 75.26,
+          "probability": 0.9931607842445374
+        },
+        {
+          "word": ".br,",
+          "start": 75.26,
+          "end": 75.4,
+          "probability": 0.9847720563411713
+        },
+        {
+          "word": " tosec",
+          "start": 75.84,
+          "end": 77.28,
+          "probability": 0.9763705730438232
+        },
+        {
+          "word": ".com",
+          "start": 77.28,
+          "end": 77.28,
+          "probability": 0.9956554770469666
+        },
+        {
+          "word": ".br,",
+          "start": 77.28,
+          "end": 77.68,
+          "probability": 0.9885121583938599
+        },
+        {
+          "word": " tosec",
+          "start": 80.42,
+          "end": 82.4,
+          "probability": 0.9774779975414276
+        },
+        {
+          "word": ".com",
+          "start": 82.4,
+          "end": 82.48,
+          "probability": 0.9969417750835419
+        },
+        {
+          "word": ".br,",
+          "start": 82.48,
+          "end": 82.48,
+          "probability": 0.990000307559967
         }
       ]
     },
     {
       "id": 10,
-      "seek": 0,
-      "start": 26.38,
-      "end": 28.76,
-      "text": " Eu fico mais nervoso hoje de mais uma graça.",
+      "seek": 8250,
+      "start": 82.5,
+      "end": 84.92,
+      "text": " Obrigado.",
       "tokens": [
-        51664,
-        2186,
-        283,
-        2789,
-        2420,
-        5724,
-        9869,
-        13458,
-        368,
-        2420,
-        2772,
-        1295,
-        5297,
+        50365,
+        45619,
+        1573,
         13,
-        51814
+        50465
       ],
       "temperature": 0,
-      "avg_logprob": -0.6322424488682901,
-      "compression_ratio": 1.506726457399103,
-      "no_speech_prob": 0.632569432258606,
+      "avg_logprob": -0.8175258636474609,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 9.445168258626069e-11,
       "words": [
         {
-          "word": " Eu",
-          "start": 26.38,
-          "end": 26.58,
-          "probability": 0.9073395133018494
-        },
-        {
-          "word": " fico",
-          "start": 26.58,
-          "end": 26.74,
-          "probability": 0.7157083749771118
-        },
-        {
-          "word": " mais",
-          "start": 26.74,
-          "end": 27.2,
-          "probability": 0.6173474192619324
-        },
-        {
-          "word": " nervoso",
-          "start": 27.2,
-          "end": 27.72,
-          "probability": 0.9181705117225647
-        },
-        {
-          "word": " hoje",
-          "start": 27.72,
-          "end": 28.08,
-          "probability": 0.7862906455993652
-        },
-        {
-          "word": " de",
-          "start": 28.08,
-          "end": 28.24,
-          "probability": 0.30131977796554565
-        },
-        {
-          "word": " mais",
-          "start": 28.24,
-          "end": 28.34,
-          "probability": 0.14692805707454681
-        },
-        {
-          "word": " uma",
-          "start": 28.34,
-          "end": 28.52,
-          "probability": 0.2262168675661087
-        },
-        {
-          "word": " graça.",
-          "start": 28.52,
-          "end": 28.76,
-          "probability": 0.7214746177196503
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 2876,
-      "start": 48.86,
-      "end": 58.74,
-      "text": " Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não",
-      "tokens": [
-        50364,
-        8010,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431,
-        11,
-        2431
-      ],
-      "temperature": 0,
-      "avg_logprob": -0.08257718404134115,
-      "compression_ratio": 31.904761904761905,
-      "no_speech_prob": 0.9466568827629089,
-      "words": [
-        {
-          "word": " Não,",
-          "start": 48.86,
-          "end": 49.239999999999995,
-          "probability": 0.03033905103802681
-        },
-        {
-          "word": " não,",
-          "start": 49.239999999999995,
-          "end": 49.62,
-          "probability": 0.2742435038089752
-        },
-        {
-          "word": " não,",
-          "start": 49.88,
-          "end": 49.88,
-          "probability": 0.5843714475631714
-        },
-        {
-          "word": " não,",
-          "start": 50.0,
-          "end": 50.0,
-          "probability": 0.6269722580909729
-        },
-        {
-          "word": " não,",
-          "start": 50.08,
-          "end": 50.78,
-          "probability": 0.6887193322181702
-        },
-        {
-          "word": " não,",
-          "start": 50.9,
-          "end": 51.98,
-          "probability": 0.7788236737251282
-        },
-        {
-          "word": " não,",
-          "start": 52.46,
-          "end": 54.7,
-          "probability": 0.8510101437568665
-        },
-        {
-          "word": " não,",
-          "start": 54.88,
-          "end": 55.58,
-          "probability": 0.8990694284439087
-        },
-        {
-          "word": " não,",
-          "start": 55.58,
-          "end": 55.7,
-          "probability": 0.929955005645752
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9518591165542603
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9640019536018372
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9713587760925293
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9770569205284119
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9794600605964661
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9819239974021912
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9830167889595032
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9847772121429443
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9857988357543945
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9866928458213806
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9873090386390686
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9878336191177368
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9885165691375732
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9885353446006775
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.988698422908783
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9885184168815613
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9886000156402588
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9889127612113953
-        },
-        {
-          "word": " não,",
-          "start": 55.7,
-          "end": 55.7,
-          "probability": 0.9889165163040161
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9889522194862366
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9890608787536621
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9890346527099609
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9890331029891968
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9889581203460693
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9887633323669434
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9884597063064575
-        },
-        {
-          "word": " não,",
-          "start": 55.9,
-          "end": 55.9,
-          "probability": 0.9883941411972046
-        },
-        {
-          "word": " não,",
-          "start": 55.92,
-          "end": 55.92,
-          "probability": 0.9886341094970703
-        },
-        {
-          "word": " não,",
-          "start": 55.92,
-          "end": 56.46,
-          "probability": 0.9881225228309631
-        },
-        {
-          "word": " não,",
-          "start": 56.9,
-          "end": 56.9,
-          "probability": 0.9881829619407654
-        },
-        {
-          "word": " não,",
-          "start": 57.04,
-          "end": 57.9,
-          "probability": 0.988303005695343
-        },
-        {
-          "word": " não,",
-          "start": 58.14,
-          "end": 58.28,
-          "probability": 0.9880285263061523
-        },
-        {
-          "word": " não,",
-          "start": 58.28,
-          "end": 58.28,
-          "probability": 0.9878854751586914
-        },
-        {
-          "word": " não,",
-          "start": 58.28,
-          "end": 58.28,
-          "probability": 0.9882086515426636
-        },
-        {
-          "word": " não,",
-          "start": 58.28,
-          "end": 58.28,
-          "probability": 0.9879818558692932
-        },
-        {
-          "word": " não,",
-          "start": 58.28,
-          "end": 58.28,
-          "probability": 0.9881089329719543
-        },
-        {
-          "word": " não,",
-          "start": 58.28,
-          "end": 58.34,
-          "probability": 0.9880968332290649
-        },
-        {
-          "word": " não,",
-          "start": 58.34,
-          "end": 58.34,
-          "probability": 0.9877669811248779
-        },
-        {
-          "word": " não,",
-          "start": 58.34,
-          "end": 58.34,
-          "probability": 0.9881448745727539
-        },
-        {
-          "word": " não,",
-          "start": 58.34,
-          "end": 58.34,
-          "probability": 0.9882504940032959
-        },
-        {
-          "word": " não,",
-          "start": 58.34,
-          "end": 58.54,
-          "probability": 0.9883102178573608
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9883809089660645
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9887309670448303
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9888450503349304
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9890110492706299
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9891276955604553
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.989498496055603
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.989547610282898
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9897933006286621
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9900772571563721
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9902989864349365
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9900381565093994
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9902288913726807
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9903283715248108
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.990760326385498
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9909399747848511
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9909898042678833
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.990988552570343
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9911932349205017
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9915233850479126
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9914939403533936
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9918917417526245
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9921438694000244
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9923384189605713
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9921633005142212
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9923449158668518
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9925920963287354
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9927693605422974
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9928030371665955
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9929560422897339
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9931151270866394
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9932311773300171
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9932239055633545
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9933655858039856
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9935336112976074
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9935373663902283
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9935171604156494
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9937258362770081
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9937740564346313
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9938551783561707
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9939067959785461
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9939126372337341
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9939392805099487
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9939660429954529
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9941072463989258
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9940542578697205
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9940412640571594
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9941054582595825
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.994212806224823
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942406415939331
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942283630371094
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942250847816467
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9943037629127502
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942089319229126
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942505359649658
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9942038655281067
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.994388997554779
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9941697120666504
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.994184672832489
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.54,
-          "probability": 0.9941704869270325
-        },
-        {
-          "word": " não,",
-          "start": 58.54,
-          "end": 58.56,
-          "probability": 0.9943426847457886
-        },
-        {
-          "word": " não,",
-          "start": 58.64,
-          "end": 58.66,
-          "probability": 0.9945212602615356
-        },
-        {
-          "word": " não",
-          "start": 58.68,
-          "end": 58.74,
-          "probability": 0.9944029450416565
+          "word": " Obrigado.",
+          "start": 82.5,
+          "end": 84.92,
+          "probability": 0.46743307262659073
         }
       ]
     }
